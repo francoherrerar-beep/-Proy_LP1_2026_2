@@ -1,4 +1,19 @@
-## 3. Diagramas del Sistema
+# Diagramas del Sistema - Proyecto 08
+
+## Simulador de Riego y Balance Hídrico del Suelo
+
+**Curso:** SW303 - Lenguaje de Programación I (Imperativo)  
+**Responsable:** Diseñador de Flujos - Franco Herrera Rios
+
+---
+
+## 1. Propósito de los diagramas
+
+Los diagramas describen cómo interactúa el usuario con el simulador y cómo fluye el proceso de cálculo día a día, desde la carga de los datos hasta la generación de resultados.
+
+El diagrama de casos de uso muestra las funciones que el sistema ofrece al usuario. El diagrama de flujo detalla el orden de las operaciones de la simulación: la validación de los datos de entrada, la decisión de riego, el balance hídrico, el drenaje por exceso, la alerta de estrés hídrico y el cierre con las métricas y los reportes.
+
+---
 
 ### 3.1 Diagrama de Casos de Uso
 
