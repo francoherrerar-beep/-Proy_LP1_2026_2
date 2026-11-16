@@ -1,6 +1,7 @@
 # Documento de Requerimientos – Proyecto 08
 **Simulador de Riego y Balance Hídrico del Suelo**  
 **Curso:** SW303 – Lenguajes de Programación I (Imperativo)  
+**Responsable (QA / Requerimientos):** Rafael Cornejo
 
 ---
 
