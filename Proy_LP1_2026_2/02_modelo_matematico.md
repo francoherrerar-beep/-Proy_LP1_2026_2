@@ -1,5 +1,5 @@
 # Modelo Matemático - Proyecto 08
-**Simulador de Riego y Balance HÃ­drico del Suelo**  
+**Simulador de Riego y Balance Hí­drico del Suelo**  
 **Curso:** SW303 - Lenguaje de Programación I (Imperativo)  
 **Responsable:** Especialista en Lógica y Modelado Matemático - Samuel Riquez
 
