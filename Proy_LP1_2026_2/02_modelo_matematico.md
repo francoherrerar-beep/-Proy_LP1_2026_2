@@ -8,7 +8,7 @@
 
 El modelo matemático define las operaciones que utilizará el simulador para estimar la evolución diaria del agua almacenada en el suelo y determinar cuándo aplicar riego.
 
-Se consideran los datos diarios de precipitación y evapotranspiraciÃ³n, el agua almacenada al inicio del dí­a, los parámetros del suelo y la estrategia de riego seleccionada.
+Se consideran los datos diarios de precipitación y evapotranspiracón, el agua almacenada al inicio del dí­a, los parámetros del suelo y la estrategia de riego seleccionada.
 
 ## 2. Variables y parámetros
 
